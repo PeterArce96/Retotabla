@@ -4,7 +4,11 @@ table,th,td{
     
 }
 table{
-    width: 100%;
+    width: 50%;
+    margin: auto;
+}
+h1{
+    text-align: center;
 }
 th{
     font-size: 20px;
